@@ -227,6 +227,7 @@ It's free & open-source. Enjoy! 🚀
 ### Other
 | | Name | Description | Deal |
 | - | - | - | - |
+| ⭐ | [VisualSitemaps AI](https://visualsitemaps.com) | Autogenerate VisualSitemaps in Seconds. Plan Content. Create Flows. | 33% OFF on All plans with code **VISUALFRIDAY-33-OFF-ANNUAL** |
 | ⭐ | [Verbatik AI](https://verbatik.com) | AI Text to Speech and Voice Cloning in 150 Languages to make your content speak | 40% OFF on All plans with code **BFCM2024** |
 | 🤖 | [MindPal](https://mindpal.io) | Build AI agents & multi-agent workflows to automate business processes. | 60% OFF all YEARLY plans with code **BLACKFRIDAY24** |
 | 🧑‍🚀 | [StellaFlow](https://www.stellaflow.com?ref=rare-big-deal) | Boost Your Visibility, Effortlessly with StellaFlow The AI ​​that creates and plans your posts, across all your networks. | 42% OFF with code **BLACKFRIDAY2024** |
